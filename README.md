@@ -9,4 +9,5 @@ My Private stuff
     - Total Command: wincmd.key
     - winrar: winrar/rarreg.rar
     - Advanced SystemCare Pro: ASC License.txt
+    - Beyond Compare: keygen.txt
 
