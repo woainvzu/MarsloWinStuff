@@ -1,7 +1,7 @@
-Marslo_Private
+Marslo Stuff
 ==============
 
-My Private stuff
+My stuff
 - Bookmarks
 - Shortcuts
 - Internet Options
